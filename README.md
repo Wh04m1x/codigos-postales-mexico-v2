@@ -9,7 +9,7 @@ Script de python para generar archivos sql de la base de datos de códigos posta
 # Notas
 
 Dentro de la carpeta `source` existe el archivo [CPdescarga.xls](http://www.correosdemexico.gob.mx/lservicios/servicios/Descarga.aspx) oficial de SEPOMEX.
-**Nota: archivo actualizado a abril de 2018**
+**Nota: archivo actualizado a Enero 2020**
 
 Dentro de la carpeta `sql` existen todos los archivos `.sql` para cada estado y un `codigos_postales_todos_los_estados.sql`.
 Se puede descargar el archivo `codigos-postales-mes-año-sql.zip` que contiene los archivos antes mencionados.
